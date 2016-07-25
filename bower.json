@@ -1,0 +1,21 @@
+{
+  "name": "only24h-upload",
+  "authors": [
+    "Truong Van Phu <truong.van.phu@bpotech.com.vn>"
+  ],
+  "description": "Only24h Upload",
+  "main": "index.html",
+  "keywords": [
+    "only24h",
+    "upload"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
